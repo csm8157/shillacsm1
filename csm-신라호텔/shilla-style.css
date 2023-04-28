@@ -85,7 +85,7 @@ main{
   transition: .7s;
 }
 main .mbg{
-  background:url("../images/메인호텔이미지.jpg")  center;
+  background:url("/메인호텔이미지.jpg")  center;
   background-size: cover;
   width: 100%;
   height: 600px;
@@ -214,7 +214,7 @@ section ul li a span.textbox{
   margin-top: 5.3rem;
 }
 .whycover .wcbg{
-  background: url(../images/버튼_링크\(갈색\).png);
+  background: url(/버튼_링크\(갈색\).png);
   width: 20px;
   height: 20px;
   background-size: 40px;
